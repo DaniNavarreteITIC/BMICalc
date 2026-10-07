@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gris">#0A0E21</color>
+    <color name="fonsCards">#111328</color>
+    <color name="fonsPes">#1D1E33</color>
+    <color name="lletra">#8D8E98</color>
+    <color name="barraPes">#512DA8</color>
+    <color name="fonsBoto">#4C4F5E</color>
+    <color name="colorCalculate">#512DA8</color>
+</resources>
