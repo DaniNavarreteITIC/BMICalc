@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">BMICalc</string>
+    <string name="titolMain">B &amp; O BMI CALCULATOR</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="height">HEIGHT</string>
+    <string name="weight">Weight</string>
+    <string name="restar">-</string>
+    <string name="sumar">+</string>
+    <string name="age">AGE</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="cdHome">Icona de home</string>
+    <string name="cdDona">Icona de dona</string>
+    <string name="cdMesAltura">Augmentar altura</string>
+    <string name="cdMenysAltura">Disminuir altura</string>
+    <string name="cdMesEdat">Augmentar edat</string>
+    <string name="cdMenysEdat">Disminuir edat</string>
+    <string name="tornar">&lt;</string>
+    <string name="titleRes">BMI Results</string>
+    <string name="inches"> inches</string>
+    <string name="recalc">RE-CALCULATE</string>
+    <string name="titRes">Your Results</string>
+    <string name="underweight">UNDERWEIGHT</string>
+    <string name="normal">NORMAL</string>
+    <string name="ideal18">You have an ideal weight for your growing age.</string>
+    <string name="overweight">OVERWEIGHT</string>
+    <string name="careful18">Careful, this BMI is high for someone who is %1$d years old.</string>
+    <string name="obese">OBESE</string>
+    <string name="undermsg">You have a lower than normal body weight. You can eat a bit more.</string>
+    <string name="normalmsg">You have a normal body weight. Good job!</string>
+    <string name="overmsg">You have a higher than normal body weight. Try to exercise more.</string>
+    <string name="obesemsg">Your body weight is quite high. Please take care of your health.</string>
 </resources>
